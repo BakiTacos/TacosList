@@ -1,7 +1,7 @@
 const CACHE_NAME = 'todo-app-v1';
 const urlsToCache = [
     './',
-    './index2.html',
+    './index.html',
     './todo.js',
     './manifest.json',
     './icon-192x192.png',
